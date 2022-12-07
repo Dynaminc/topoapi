@@ -1,2 +1,2 @@
 # topoapi
-Official backend to the topohub Software
+Quick Html Representation of TopoApi Interface
