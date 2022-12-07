@@ -1,2 +1,2 @@
 # topoapi
-Quick Html Representation of TopoApi Interface
+Quick Html and TailWindCss Representation of TopoApi Interface
